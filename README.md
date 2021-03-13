@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayank khatri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank khatri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayank-khatri-291657196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank khatri" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank_.khatri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mayank_.khatri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayank0218_cse19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayank0218_cse19" height="30" width="40" /></a>
 </p>
