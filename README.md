@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Android or Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://mayank816.github.io/Myportfolio/](https://mayank816.github.io/Myportfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/MAYANK816](https://github.com/MAYANK816)
 
 - 💬 Ask me about **programming related questions**
 
