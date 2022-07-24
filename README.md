@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/mayank-khatri-291657196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank khatri" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank_.khatri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mayank_.khatri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayank0218_cse19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayank0218_cse19" height="30" width="40" /></a>
+<a href="https://leetcode.com/user5002zG/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mayank0218_cse19" height="30" width="40" /></a>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=MAYANK816&bg_color=000000&color=9e4c98&line=af23a5&point=ffffff&area=true&hide_border=true"/
 <h3 align="left">Languages and Tools:</h3>
