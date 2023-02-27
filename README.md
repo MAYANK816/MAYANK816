@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank816" alt="mayank816" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
 
-- 👯 I’m looking Job on **Android or Web Development Projects**
+- 👯 I’m working on **Android or Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAYANK816](https://github.com/MAYANK816)
 
